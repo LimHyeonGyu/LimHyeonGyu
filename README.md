@@ -1,4 +1,5 @@
 ## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=프로필%20수정하기)
 
 <!--
 **LimHyeonGyu/LimHyeonGyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
